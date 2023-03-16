@@ -1,6 +1,6 @@
 ## Olá! Sou Felipe Lucena
 
-- 🔭 Atualmente estou trabalhando como taxista
+- 🔭 Atualmente estou trabalhando como Taxista
 - 🌱 Estudando Análise e Desnvolvimento de Sistemas
 - 💬 Contate-me pelo email: luiz.lucena@yahoo.com.br
 
